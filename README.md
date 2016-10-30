@@ -1,4 +1,4 @@
-# SoftwareTestin-Fundamentals
+# SoftwareTestingFundamentals
 
 Ссылка:
 http://universarium.org/course/526
