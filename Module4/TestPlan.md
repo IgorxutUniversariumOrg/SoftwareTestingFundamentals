@@ -16,7 +16,6 @@
 | наименование | ссылка                        |
 | :----------- | :---------------------------- |
 | главная      | https://cars.mail.ru          |
-| продать      | https://cars.mail.ru/sell/    |
 | купить       | https://cars.mail.ru/sale/    |
 | каталог      | https://cars.mail.ru/catalog/ |
 | отзывы       | https://cars.mail.ru/reviews/ |
