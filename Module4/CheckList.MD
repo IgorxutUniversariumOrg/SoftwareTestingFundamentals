@@ -1,6 +1,10 @@
-# Контрольный список проверок
+# Отчет по тестированию
 
-Поверхностный чек-лист. Содержит список проверок, их результат, количествой найденных дефектов, ссылки на дефекты.
+Тестирование проводилось согласно документам:
+ - [план тестирования](https://github.com/IgorxutUniversariumOrg/SoftwareTestingFundamentals/blob/master/Module4/TestPlan.md)
+ - [контрольный список проверок](https://github.com/IgorxutUniversariumOrg/SoftwareTestingFundamentals/blob/master/Module4/CheckList.MD)
+
+Тестирование проводилось в период с 24 октября 2016 года по 5 ноября 2016 года.
 
 
 ## Общие проверки
